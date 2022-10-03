@@ -1,0 +1,10 @@
+.omelette-img-container {
+    height: 200px;
+    width: 200px;
+}
+
+.omelette-img {
+    height:100%;
+    width: 175px;
+    object-fit: contain;
+}
