@@ -1,0 +1,10 @@
+.img-container {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+.pizza-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
